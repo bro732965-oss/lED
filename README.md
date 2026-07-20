@@ -1,7 +1,7 @@
 # lED
 # Исполнитель команд для  матрицы (triangle Matrix)
-#исполнитель комманд звука (commander audioteca)
-#исполнитель нажатие клавиш  (keyboard 1-9)
+# исполнитель комманд звука (commander audioteca)
+# исполнитель нажатие клавиш  (keyboard 1-9)
 ![Table in PWR](ca104887_a946_4308_b35b_d2a5631e7dea.jpg) 
 
 
