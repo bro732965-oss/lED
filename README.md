@@ -1,5 +1,5 @@
 # lED
-# Исполнитель команд для светодиодной матрицы (triangle Matrix)![Table in PWR](ca104887_a946_4308_b35b_d2a5631e7dea.jpg) 
+# Исполнитель команд для  матрицы (triangle Matrix)![Table in PWR](ca104887_a946_4308_b35b_d2a5631e7dea.jpg) 
 
 ## 📖 Общее описание
 
